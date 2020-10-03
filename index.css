@@ -1,0 +1,75 @@
+#header
+{
+    width:80%;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#fotodeanime
+{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+hr
+{
+    border: 1px solid #ee428a;
+}
+
+strong
+{
+    color: #ee428a;
+}
+
+h4
+{
+    color: 	#ee428a;
+}
+p[name="nome"]
+{
+    color: #ee428a;
+}
+body
+{
+    background-color: #F0F0F0
+}
+
+#infoProfissional
+{
+    width: 50%;
+    position: relative;
+    left: 25%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#infoProfissional > p
+{
+    text-align: justify;
+}
+
+#redesSociais > p
+{
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+a
+{
+    color: #ee428a;
+}
+
+div[name="rodape"]
+{
+    height: 20px;
+}
+
+#rodape
+{
+    text-align: center;
+    color: #ee428a;
+}
